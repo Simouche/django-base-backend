@@ -1,0 +1,290 @@
+{
+  "1": {
+    "NAME": "Adrar",
+    "NAME_AR": "أدرار",
+    "Latitude": "27° 53′ 59N",
+    "Longitude": "0° 16′ 59W"
+  },
+  "2": {
+    "NAME": "Chlef",
+    "NAME_AR": "الشلف",
+    "Latitude": "36° 09′ 53N",
+    "Longitude": "1° 20′ 06E"
+  },
+  "3": {
+    "NAME": "Laghouat",
+    "NAME_AR": "الأغواط",
+    "Latitude": "33° 47′ 59N",
+    "Longitude": "2° 52′ 59E"
+  },
+  "4": {
+    "NAME": "Oum Bouaghi",
+    "NAME_AR": "أم بواقي",
+    "Latitude": "35° 52′ 39N",
+    "Longitude": "7° 06′ 49E"
+  },
+  "5": {
+    "NAME": "Batna",
+    "NAME_AR": "باتنة",
+    "Latitude": "35° 33′ 19N",
+    "Longitude": "6° 10′ 43E"
+  },
+  "6": {
+    "NAME": "Bejaia",
+    "NAME_AR": "بجاية",
+    "Latitude": "36° 45′ 00N",
+    "Longitude": "5° 04′ 59E"
+  },
+  "7": {
+    "NAME": "Biskra",
+    "NAME_AR": "بسكرة",
+    "Latitude": "34° 51′ 00N",
+    "Longitude": "5° 43′ 59E"
+  },
+  "8": {
+    "NAME": "Bechar",
+    "NAME_AR": "بشار",
+    "Latitude": "31° 37′ 00N",
+    "Longitude": "2° 13′ 00W"
+  },
+  "9": {
+    "NAME": "Blida",
+    "NAME_AR": "البليدة",
+    "Latitude": "36° 28′ 00N",
+    "Longitude": "2° 49′ 59E"
+  },
+  "10": {
+    "NAME": "Bouira",
+    "NAME_AR": "البويرة",
+    "Latitude": "36° 22′ 48N",
+    "Longitude": "3° 54′ 05E"
+  },
+  "11": {
+    "NAME": "Tamanrasset",
+    "NAME_AR": "تمنراست",
+    "Latitude": "22° 46′ 59N",
+    "Longitude": "5° 31′ 00E"
+  },
+  "12": {
+    "NAME": "Tebessa",
+    "NAME_AR": "تبسة",
+    "Latitude": "35° 24′ 15N",
+    "Longitude": "8° 07′ 27E"
+  },
+  "13": {
+    "NAME": "Tlemcen",
+    "NAME_AR": "تلمسان",
+    "Latitude": "34° 52′ 42N",
+    "Longitude": "1° 18′ 54W"
+  },
+  "14": {
+    "NAME": "Tiaret",
+    "NAME_AR": "تيارت",
+    "Latitude": "35° 22′ 33N",
+    "Longitude": "1° 18′ 47E"
+  },
+  "15": {
+    "NAME": "Tizi Ouzou",
+    "NAME_AR": "تيزي وزو ",
+    "Latitude": "36° 43′ 01N",
+    "Longitude": "4° 02′ 59E"
+  },
+  "16": {
+    "NAME": "Alger",
+    "NAME_AR": "الجزائر",
+    "Latitude": "36° 45′ 47N",
+    "Longitude": "3° 03′ 02E"
+  },
+  "17": {
+    "NAME": "Djelfa",
+    "NAME_AR": "الجلفة",
+    "Latitude": "34° 40′ 00N",
+    "Longitude": "3° 15′ 00E"
+  },
+  "18": {
+    "NAME": "Jijel",
+    "NAME_AR": "جيجل",
+    "Latitude": "36° 47′ 59N",
+    "Longitude": "5° 46′ 00E"
+  },
+  "19": {
+    "NAME": "Setif",
+    "NAME_AR": "سطيف",
+    "Latitude": "36° 11′ 29N",
+    "Longitude": "5° 24′ 34E"
+  },
+  "20": {
+    "NAME": "Saida",
+    "NAME_AR": "سعيدة",
+    "Latitude": "34° 49′ 59N",
+    "Longitude": "0° 09′ 00E"
+  },
+  "21": {
+    "NAME": "Skikda",
+    "NAME_AR": "سكيكدة",
+    "Latitude": "36° 51′ 44N",
+    "Longitude": "6° 56′ 50E"
+  },
+  "22": {
+    "NAME": "Sidi Belabbes",
+    "NAME_AR": "سيدي بلعباس ",
+    "Latitude": "35° 11′ 38N",
+    "Longitude": "0° 38′ 29W"
+  },
+  "23": {
+    "NAME": "Annaba",
+    "NAME_AR": "عنابة",
+    "Latitude": "36° 53′ 59N",
+    "Longitude": "7° 46′ 00E"
+  },
+  "24": {
+    "NAME": "Guelma",
+    "NAME_AR": "قالمة",
+    "Latitude": "36° 27′ 58N",
+    "Longitude": "7° 26′ 02E"
+  },
+  "25": {
+    "NAME": "Constantine",
+    "NAME_AR": "قسنطينة",
+    "Latitude": "36° 21′ 54N",
+    "Longitude": "6° 36′ 53E"
+  },
+  "26": {
+    "NAME": "Medea",
+    "NAME_AR": "المدية",
+    "Latitude": "36° 16′ 00N",
+    "Longitude": "2° 45′ 00E"
+  },
+  "27": {
+    "NAME": "Mostaganem",
+    "NAME_AR": "مستغانم",
+    "Latitude": "35° 55′ 59N",
+    "Longitude": "0° 05′ 25E"
+  },
+  "28": {
+    "NAME": "M’sila",
+    "NAME_AR": "المسيلة",
+    "Latitude": "35° 43′ 32N",
+    "Longitude": "4° 31′ 40E"
+  },
+  "29": {
+    "NAME": "Mascara",
+    "NAME_AR": "معسكر",
+    "Latitude": "35° 23′ 40N",
+    "Longitude": "0° 08′ 23E"
+  },
+  "30": {
+    "NAME": "Ouargla",
+    "NAME_AR": "ورقلة",
+    "Latitude": "31° 56′ 59N",
+    "Longitude": "5° 19′ 59E"
+  },
+  "31": {
+    "NAME": "Oran",
+    "NAME_AR": "وهران",
+    "Latitude": "35° 41′ 28N",
+    "Longitude": "0° 38′ 30W"
+  },
+  "32": {
+    "NAME": "El Bayadh",
+    "NAME_AR": "البيض",
+    "Latitude": "33° 41′ 10N",
+    "Longitude": "1° 00′ 50E"
+  },
+  "33": {
+    "NAME": "Illizi",
+    "NAME_AR": "اليزي",
+    "Latitude": "26° 28′ 59N",
+    "Longitude": "8° 28′ 00E"
+  },
+  "34": {
+    "NAME": "Bordj B. Arreridj",
+    "NAME_AR": "برج بوعريريج ",
+    "Latitude": "36° 04′ 00N",
+    "Longitude": "4° 46′ 00E"
+  },
+  "35": {
+    "NAME": "Boumerdes",
+    "NAME_AR": "بومرداس",
+    "Latitude": "36° 46′ 00N",
+    "Longitude": "3° 28′ 38E"
+  },
+  "36": {
+    "NAME": "Taref",
+    "NAME_AR": "الطارف ",
+    "Latitude": "36° 46′ 07N",
+    "Longitude": "8° 19′ 00E"
+  },
+  "37": {
+    "NAME": "Tindouf",
+    "NAME_AR": "تندوف",
+    "Latitude": "27° 40′ 27N",
+    "Longitude": "8° 08′ 52W"
+  },
+  "38": {
+    "NAME": "Tissemsilt",
+    "NAME_AR": "تسمسيلت",
+    "Latitude": "35° 36′ 28N",
+    "Longitude": "1° 48′ 40E"
+  },
+  "39": {
+    "NAME": "El Oued",
+    "NAME_AR": "الوادي",
+    "Latitude": "33° 19′ 59N",
+    "Longitude": "6° 52′ 59E"
+  },
+  "40": {
+    "NAME": "Khenchela",
+    "NAME_AR": "خنشلة",
+    "Latitude": "35° 26′ 09N",
+    "Longitude": "7° 08′ 36E"
+  },
+  "41": {
+    "NAME": "Souk Ahras",
+    "NAME_AR": "سوق أهراس",
+    "Latitude": "36° 16′ 07N",
+    "Longitude": "7° 56′ 08E"
+  },
+  "42": {
+    "NAME": "Tipaza",
+    "NAME_AR": "تيبازة",
+    "Latitude": "36° 34′ 59N",
+    "Longitude": "2° 27′ 00E"
+  },
+  "43": {
+    "NAME": "Mila",
+    "NAME_AR": "ميلة",
+    "Latitude": "36° 27′ 04N",
+    "Longitude": "6° 15′ 55E"
+  },
+  "44": {
+    "NAME": "Ain Defla",
+    "NAME_AR": "عين الدفلى ",
+    "Latitude": "36° 04′ 00N",
+    "Longitude": "4° 32′ 59E"
+  },
+  "45": {
+    "NAME": "Naama",
+    "NAME_AR": "النعامة",
+    "Latitude": "33° 16′ 00N",
+    "Longitude": "0° 19′ 00W"
+  },
+  "46": {
+    "NAME": "Ain Temouchent",
+    "NAME_AR": "عين تموشنت ",
+    "Latitude": "35° 18′ 45N",
+    "Longitude": "1° 08′ 43W"
+  },
+  "47": {
+    "NAME": "Ghardaia",
+    "NAME_AR": "غرداية",
+    "Latitude": "32° 28′ 59N",
+    "Longitude": "3° 40′ 00E"
+  },
+  "48": {
+    "NAME": "Relizane",
+    "NAME_AR": "غليزان",
+    "Latitude": "35° 44′ 33N",
+    "Longitude": "0° 33′ 33E"
+  }
+}

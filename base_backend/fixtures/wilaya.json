@@ -1,0 +1,530 @@
+[
+  {
+    "model": "restaurants.wilaya",
+    "pk": 1,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Adrar",
+      "matricule": 1,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 2,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Chlef",
+      "matricule": 2,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 3,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Laghouat",
+      "matricule": 3,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 4,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Oum El Bouaghi",
+      "matricule": 4,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 5,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Batna",
+      "matricule": 5,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 6,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "B\u00e9ja\u00efa",
+      "matricule": 6,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 7,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Biskra",
+      "matricule": 7,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 8,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "B\u00e9char",
+      "matricule": 8,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 9,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Blida",
+      "matricule": 9,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 10,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Bouira",
+      "matricule": 10,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 11,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Tamanrasset",
+      "matricule": 11,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 12,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "T\u00e9bessa",
+      "matricule": 12,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 13,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Tlemcen",
+      "matricule": 13,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 14,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Tiaret",
+      "matricule": 14,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 15,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Tizi Ouzou",
+      "matricule": 15,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 16,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Alger",
+      "matricule": 16,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 17,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Djelfa",
+      "matricule": 17,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 18,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Jijel",
+      "matricule": 18,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 19,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "S\u00e9tif",
+      "matricule": 19,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 20,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Sa\u00efda",
+      "matricule": 20,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 21,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Skikda",
+      "matricule": 21,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 22,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Sidi Bel Abb\u00e8s",
+      "matricule": 22,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 23,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Annaba",
+      "matricule": 23,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 24,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Guelma",
+      "matricule": 24,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 25,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Constantine",
+      "matricule": 25,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 26,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "M\u00e9d\u00e9a",
+      "matricule": 26,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 27,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Mostaganem",
+      "matricule": 27,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 28,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "M'Sila",
+      "matricule": 28,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 29,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Mascara",
+      "matricule": 29,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 30,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Ouargla",
+      "matricule": 30,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 31,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Oran",
+      "matricule": 31,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 32,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "El Bayadh",
+      "matricule": 32,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 33,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Illizi",
+      "matricule": 33,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 34,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Bordj Bou Arreridj",
+      "matricule": 34,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 35,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Boumerd\u00e8s",
+      "matricule": 35,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 36,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "El Tarf",
+      "matricule": 36,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 37,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Tindouf",
+      "matricule": 37,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 38,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Tissemsilt",
+      "matricule": 38,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 39,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "El Oued",
+      "matricule": 39,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 40,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Khenchela",
+      "matricule": 40,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 41,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Souk Ahras",
+      "matricule": 41,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 42,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Tipaza",
+      "matricule": 42,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 43,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Mila",
+      "matricule": 43,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 44,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "A\u00efn Defla",
+      "matricule": 44,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 45,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Na\u00e2ma",
+      "matricule": 45,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 46,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "A\u00efn T\u00e9mouchent",
+      "matricule": 46,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 47,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Gharda\u00efa",
+      "matricule": 47,
+      "code_postal": 0
+    }
+  },
+  {
+    "model": "restaurants.wilaya",
+    "pk": 48,
+    "fields": {
+      "created_at": "2019-11-12T23:07:37Z",
+      "updated_at": "2019-11-12T23:07:37Z",
+      "name": "Relizane",
+      "matricule": 48,
+      "code_postal": 0
+    }
+  }
+]

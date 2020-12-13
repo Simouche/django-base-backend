@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: django-base-backend
+Version: 0.1a3
+Summary: A Django Utilities library.
+Home-page: https://github.com/Simouche/django-base-backend
+Author: Simouche
+Author-email: wassim.chaguetmi@gmail.com
+License: MIT
+Description: =====
+        Base Backend
+        =====
+        
+        Base Backend is a Django Utilities library. 
+        
+        Detailed documentation is in the "docs" directory.
+        
+        Quick start
+        -----------
+        
+        1. Add "base_backend" to your INSTALLED_APPS setting like this::
+        
+            INSTALLED_APPS = [
+                ...
+                'base_backend',
+            ]
+        
+        2. Run ``python manage.py migrate`` to create the polls models.
+        
+        Enjoy!
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Description-Content-Type: text/markdown
